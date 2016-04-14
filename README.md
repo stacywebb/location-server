@@ -30,11 +30,11 @@ Go to [http://localhost:8080](http://localhost:8080)
 
 Download and install application
 
-[ValcomAlert Android](https://play.google.com/store/apps/details?id=com.stacywebbgmail.com.valcomalert)
+[Android](https://play.google.com/store/apps/details?id=com.stacywebbgmail.com.valcomalert)
 
-[ValcomAlert iOS](https://itunes.apple.com/us/app/valcomlocate/id969760781?mt=8)
+[iOS](https://itunes.apple.com/us/app/valcomlocate/id969760781?mt=8)
 
-[ValcomAlert Windows10](https://www.microsoft.com/en-us/store/apps/ValcomAlert)
+[Windows10](https://www.microsoft.com/en-us/store/apps/ValcomAlert)
 
 ## Configure
  
