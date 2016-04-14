@@ -82,7 +82,7 @@ var server = app.listen(8080, function () {
 	var port = server.address().port;
 
 	console.log('*************************************************************************');
-	console.log('* ValcomLocate Backgound Geo Server listening at http://%s:%s', host, port);
+	console.log('* ValcomAlert Location Aware Server listening at http://%s:%s', host, port);
 	console.log('*************************************************************************', "\n");
 });
 
