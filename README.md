@@ -1,6 +1,5 @@
-# ValcomAlert Location Aware
+# Location Server
 
-> Server & Mobile Application
 
 ## Running
 
