@@ -26,19 +26,9 @@ To run the app in your browser, start the web server
 Go to [http://localhost:8080](http://localhost:8080)
 
 
-## ValcomAlert Mobile Application
-
-Download and install application
-
-[Android](https://play.google.com/store/apps/details?id=com.stacywebbgmail.com.valcomalert)
-
-[iOS](https://itunes.apple.com/us/app/valcomlocate/id969760781?mt=8)
-
-[Windows10](https://www.microsoft.com/en-us/store/apps/ValcomAlert)
-
 ## Configure
  
- Go to `Settings->url` and set it to `http://<valcomalert.server.ip.address>:8080/locations`.
+ Go to `Settings->url` and set it to `http://<server.ip.address>:8080/locations`.
 
 
 ## Testing purposes only (unavailable in release version)
@@ -46,15 +36,10 @@ Download and install application
 If you wish to prevent autoSync from being recorded to the server (using cell service).
 	Set `Settings->autoSync` to `false`.
 
-Once you are on back wi-fi, click the **[Sync]** button on the `Settings` screen to upload the cached locations to the **ValcomAlert Location Aware** server.
+Once you are on back wi-fi, click the **[Sync]** button on the `Settings` screen to upload the cached locations to the **Location Aware** server.
 
 
 ## Author
 
  Stacy E. Webb
- [Valcom Inc.](http://valcom.com)
 
-## Licenses
- 
- All items are Copyright 2016 Valcom Inc.
- Unless specified as MIT-licensed.
