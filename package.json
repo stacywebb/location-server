@@ -1,8 +1,8 @@
 {
   "name":"ValcomAlert-Location-Server",
   "version":"0.1.0",
-  "description":"ValcomAlert Location Monitoring Server",
-  "repository":"github.com/stacywebb/valcomalert-location-server",
+  "description":"Location Monitoring Server",
+  "repository":"github.com/stacywebb/location-server",
   "main":"js/app.js",
   "dependencies":{
 	"body-parser":"^1.13.3",
