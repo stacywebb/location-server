@@ -1,6 +1,4 @@
 /**
- * Copyright (c) 2016, Valcom, Inc.
- * All rights reserved.
  *
  */
 
